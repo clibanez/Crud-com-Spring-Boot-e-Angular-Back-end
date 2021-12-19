@@ -1,4 +1,4 @@
-package service;
+package com.clibanez.crudspring.service;
 
 import java.util.List;
 import java.util.Optional;
