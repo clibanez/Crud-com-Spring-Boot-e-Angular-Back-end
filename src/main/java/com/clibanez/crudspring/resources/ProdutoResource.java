@@ -20,7 +20,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 @RestController
-@RequestMapping(value = "/crud/produtos")
+@RequestMapping(value = "produtos")
 @CrossOrigin("*")
 public class ProdutoResource {
 
